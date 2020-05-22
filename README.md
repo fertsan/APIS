@@ -5,6 +5,6 @@ FPGA based Board for digital electronics educational puporse
 
 ![APIS Board](https://github.com/fertsan/APIS/blob/master/document/APIS_Board.JPG)
 
-![APIS block diagram](https://github.com/fertsan/APIS/blob/master/document/APIS_block_diagram.JPG)
+![APIS block diagram](https://github.com/fertsan/APIS/blob/master/document/APIS_block_diagram.png)
 
 ![FTHS Design logo](https://github.com/fertsan/APIS/blob/master/document/fths_design_logo.png)
