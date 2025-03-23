@@ -1,7 +1,7 @@
 # APIS
 APIS board project by FT|-|S [)es!gn
 
-FPGA based eletronic board for digital electronics educational and prototype puporses.
+FPGA based eletronic board for digital electronics educational and prototype purposes.
 
 ![APIS Board](https://github.com/fertsan/APIS/blob/master/document/APIS_Board.JPG)
 
